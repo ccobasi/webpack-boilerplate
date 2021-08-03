@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anvi98/webpack-boilerplate.git"
+    "url": "git+https://github.com/ccobasi/webpack-boilerplate.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Anvi98/webpack-boilerplate/issues"
+    "url": "https://github.com/ccobasi/webpack-boilerplate/issues"
   },
-  "homepage": "https://github.com/Anvi98/webpack-boilerplate#readme",
+  "homepage": "https://github.com/ccobasi/webpack-boilerplate#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^5.2.7",
